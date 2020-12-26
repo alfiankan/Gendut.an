@@ -1,11 +1,14 @@
 
-    class and object (oke)
-    package (Oke)
-    input output (oke)
-    variabel (local, instance, static) (oke)
-    method (void and non-void) (Oke)
-    access modifier (Oke)
-    inharitance (Oke)
-    constructor (Oke)
-    encapsulation (oke)
-
+    TUGAS PEMOGRAMAN BERORIENTASI OBJECT (OOP)
+    Team :
+    - Alfian Nur Fathoni
+    - Muhammad Mutawadhi Alfajri
+    class and object ()
+    package ()
+    input output ()
+    variabel (local, instance, static) ()
+    method (void and non-void) ()
+    access modifier ()
+    inharitance ()
+    constructor ()
+    encapsulation ()
