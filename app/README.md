@@ -1,0 +1,10 @@
+
+    class and object ()
+    package ()
+    input output ()
+    variabel (local, instance, static) ()
+    method (void and non-void) ()
+    access modifier ()
+    inharitance ()
+    constructor ()
+    encapsulation ()
